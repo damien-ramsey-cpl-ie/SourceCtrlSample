@@ -20,6 +20,7 @@ namespace SourceCtrlSample
         private void Form1_Load(object sender, EventArgs e)
         {
             string x = "damiens first change";
+            string xx = "damien is a great man";
         }
     }
 }
